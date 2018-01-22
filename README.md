@@ -6,7 +6,7 @@ To compile, enter the directory of the client or server and type:
 make
 
 To run the client:
-./client <address> <port> <secretkey>
+./client [address] [port] <secretkey>
 
 To run the server:
 ./server <port> <secretkey>
